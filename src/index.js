@@ -4,7 +4,7 @@ import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  // <React.StrictMode>
    <h1 style={{
         margin: 8,
         padding: "12px 16px",
@@ -12,6 +12,6 @@ root.render(
         backgroundColor: "white",
         color: "green",
       }}>Helloooooo!!!!!!!!</h1> 
-  </React.StrictMode>
+  // </React.StrictMode>
 );
 
