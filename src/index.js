@@ -9,8 +9,8 @@ root.render(
         margin: 8,
         padding: "12px 16px",
         borderRadius: 4,
-        backgroundColor: "gray",
-        color: "white",
+        backgroundColor: "white",
+        color: "green",
       }}>Helloooooo!!!!!!!!</h1> 
   </React.StrictMode>
 );
