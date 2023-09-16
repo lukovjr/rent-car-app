@@ -5,7 +5,13 @@ import './index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   <h1>Helloooooo!!!!!!!!</h1> 
+   <h1 style={{
+        margin: 8,
+        padding: "12px 16px",
+        borderRadius: 4,
+        backgroundColor: "gray",
+        color: "white",
+      }}>Helloooooo!!!!!!!!</h1> 
   </React.StrictMode>
 );
 
