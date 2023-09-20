@@ -11,7 +11,7 @@ root.render(
         borderRadius: 4,
         backgroundColor: "green",
         color: "red",
-      }}>deployDDDDDDDDDDD</h1> 
+      }}>deployDDD</h1> 
   // </React.StrictMode>
 );
 
