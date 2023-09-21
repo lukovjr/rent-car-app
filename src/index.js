@@ -10,8 +10,8 @@ root.render(
         padding: "12px 16px",
         borderRadius: 4,
         backgroundColor: "green",
-        color: "red",
-      }}>deployDDD</h1> 
+        color: "white",
+      }}>OLHA HI!!!!!</h1> 
   // </React.StrictMode>
 );
 
