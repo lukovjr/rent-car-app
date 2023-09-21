@@ -11,7 +11,8 @@ root.render(
         borderRadius: 4,
         backgroundColor: "green",
         color: "white",
-      }}>OLHA HI!!!!!</h1> 
+        width: 120,
+      }}>HI!!!!!</h1> 
   // </React.StrictMode>
 );
 
